@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\bin\Debug\netcoreapp3.1\Ejercicio5-Calculadora.exe
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\bin\Debug\netcoreapp3.1\Ejercicio5-Calculadora.deps.json
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\bin\Debug\netcoreapp3.1\Ejercicio5-Calculadora.runtimeconfig.json
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\bin\Debug\netcoreapp3.1\Ejercicio5-Calculadora.runtimeconfig.dev.json
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\bin\Debug\netcoreapp3.1\Ejercicio5-Calculadora.dll
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\bin\Debug\netcoreapp3.1\Ejercicio5-Calculadora.pdb
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.AssemblyInfo.cs
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.dll
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.pdb
+C:\Users\HP\Documents\Ejercicios U\Ejercicio5-Calculadora\Ejercicio5-Calculadora\obj\Debug\netcoreapp3.1\Ejercicio5-Calculadora.genruntimeconfig.cache
